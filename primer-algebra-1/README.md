@@ -1,5 +1,5 @@
 # 目录
-**初等数学**（Elementary mathematics）
+**初等数学**（Elementary mathematics）代数部分-1
 
 ## 基础概念
 - [数轴](./数轴.md)
