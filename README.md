@@ -17,3 +17,6 @@
 
 ## 统计与概率
 - [统计与概率](./statistics-and-probability/README.md)
+
+## 向量
+- [向量](./euclidean-vector/README.md)
