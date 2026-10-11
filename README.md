@@ -12,8 +12,8 @@
 - [集合论](./set-theory/README.md)
 
 ## 初等数学
-- [代数-1](./primer-algebra/README.md)
-- [几何-1](./primer-geometry-1/README.md)
+- [代数](./primer-algebra/README.md)
+- [几何](./primer-geometry/README.md)
 
 ## 统计与概率
 - [统计与概率](./statistics-and-probability/README.md)
