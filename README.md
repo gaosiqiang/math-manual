@@ -12,7 +12,7 @@
 - [集合论](./set-theory/README.md)
 
 ## 初等数学
-- [代数-1](./primer-algebra-1/README.md)
+- [代数-1](./primer-algebra/README.md)
 - [几何-1](./primer-geometry-1/README.md)
 
 ## 统计与概率
